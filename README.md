@@ -7,11 +7,11 @@
 
 **Select. Press. Saved.**
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-lightgrey?style=flat-square&logo=linux)](https://github.com/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
-[![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)]()
-[![Made with](https://img.shields.io/badge/Made%20with-Tkinter%20%2B%20pystray-orange?style=flat-square)]()
+[![Python](https://img.shields.io/badge/Python-3.10%2B-3b2f7f?style=flat-square&logo=python&logoColor=white&labelColor=1a1a2e)](https://www.python.org/)
+[![Platform](https://img.shields.io/badge/Platform-Linux%20%7C%20Windows-2d6a4f?style=flat-square&logo=linux&logoColor=white&labelColor=1a1a2e)](https://github.com/)
+[![License](https://img.shields.io/badge/License-MIT-3b2f7f?style=flat-square&labelColor=1a1a2e)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-Active-2d6a4f?style=flat-square&labelColor=1a1a2e)]()
+[![Made with](https://img.shields.io/badge/Made%20with-Tkinter%20%2B%20pystray-4a3b8c?style=flat-square&labelColor=1a1a2e)]()
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/Hotkey-Alt%20%2B%20Shift%20%2B%20C-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Hotkey-Alt%20%2B%20Shift%20%2B%20C-2d6a4f?style=for-the-badge&labelColor=1a1a2e" />
 
 </div>
 
