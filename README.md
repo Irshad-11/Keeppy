@@ -162,15 +162,15 @@ venv\Scripts\python Keeppy.py
 
 | Platform | Download | Notes |
 |----------|----------|-------|
-| 🐧 Linux (Debian/Ubuntu) | [`keeppy_1.0.0_amd64.deb`](#) | Install with `sudo dpkg -i` |
-| 🪟 Windows | [`Keeppy_Setup_1.0.0.exe`](#) | Run installer, launches on login |
+| 🐧 Linux (Debian/Ubuntu) | [`keeppy_1.0.0_amd64.deb`](https://github.com/Irshad-11/Keeppy/releases/download/v1.0.0/keeppy_1.0.0_amd64.deb) | Install with `sudo dpkg -i` |
+| 🪟 Windows | [`Keeppy_Setup_1.0.0.exe`](https://github.com/Irshad-11/Keeppy/releases/download/v1.0.0/Keeppy_Setup_1.0.0.exe) | Run installer, launches on login |
 
 </div>
 
 ### Linux `.deb` install
 
 ```bash
-wget https://github.com/Irshad-11/keeppy/releases/download/v1.0.0/keeppy_1.0.0_amd64.deb
+wget https://github.com/Irshad-11/Keeppy/releases/download/v1.0.0/keeppy_1.0.0_amd64.deb
 sudo dpkg -i keeppy_1.0.0_amd64.deb
 
 # then run it
